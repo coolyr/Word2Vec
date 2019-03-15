@@ -1,1 +1,1 @@
-# Word2Vect
+# Word2Vec
